@@ -4,7 +4,7 @@ const MainTop = () => {
   return (
     <section className="section mainTop" autoPlay loop muted>
       <video className="videoMain" autoPlay loop muted>
-        <source src="img/videoBg.mp4" type="video/mp4" />
+        <source src="videoBg.mp4" type="video/mp4" />
       </video>
       <div className="mainTop__Wrap">
         <div className="sectionWrap sectionWrap_noFlex">
