@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/demosvc.github.io/static/css/main.1f770e3f.css",
-    "main.js": "/demosvc.github.io/static/js/main.b27d2640.js",
+    "main.js": "/demosvc.github.io/static/js/main.03872f12.js",
     "index.html": "/demosvc.github.io/index.html",
     "main.1f770e3f.css.map": "/demosvc.github.io/static/css/main.1f770e3f.css.map",
-    "main.b27d2640.js.map": "/demosvc.github.io/static/js/main.b27d2640.js.map"
+    "main.03872f12.js.map": "/demosvc.github.io/static/js/main.03872f12.js.map"
   },
   "entrypoints": [
     "static/css/main.1f770e3f.css",
-    "static/js/main.b27d2640.js"
+    "static/js/main.03872f12.js"
   ]
 }
